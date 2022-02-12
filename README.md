@@ -1,2 +1,2 @@
 # Lorem
-Bootstrap proov
+Bootstrap 5 veebileht
